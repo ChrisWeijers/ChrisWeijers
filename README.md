@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm a second year Bsc Data Science student at TU/e and TiU
+- I'm a third year BSc Data Science student at TU/e and TiU
 <!--
 **ChrisWeijers/ChrisWeijers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
